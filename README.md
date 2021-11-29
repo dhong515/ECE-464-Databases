@@ -1,4 +1,5 @@
 # ECE-464-Databases
+More information about this course can be found here: https://github.com/eugsokolov/ece464-databases/blob/master/syllabus.md
 
 # Problem Set 1 Description
 
