@@ -17,13 +17,13 @@ Select, for each boat, the sailor who made the highest number of reservations fo
 **Part 2**
 Represent the sailors and boats schema using an ORM - I prefer SQLAlchemy but students have the freedom to choose their own language and ORM. Show that it is fully functional by writing tests with a testing framework using the data from part 1 (writing the queries for the questions in Part 1) - I prefer pytest but students are have the freedom to choose their own testing framework.
 
-**Part** 3
+**Part 3**
 Students are hired as software consults for a small business boat rental that is experiencing a heavy influx of tourism in its area. This increase is hindering operations of the mom/pop shop that uses paper/pen for most tasks. Students should explore “inefficient processes” the business may have and propose ideas for improvements - in the form of a brief write-up. Expand the codebase from part 2 to include a few jobs, reports, integrity checks, and/or other processes that would be beneficial to the business. Use the data provided in part 1 and expand it to conduct tests and show functionality. Examples include, but are not limited to:
 
-**Bi weekly payment query
-Monthly accounting manager
-Daily inventory control
-Inventory repair tracker (and cost analysis)**
+**Bi weekly payment query**
+**Monthly accounting manager**
+**Daily inventory control**
+**Inventory repair tracker (and cost analysis)**
 
 # Problem Set 2 Description
 
